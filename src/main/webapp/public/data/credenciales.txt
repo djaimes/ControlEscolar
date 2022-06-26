@@ -1,0 +1,3 @@
+Database: controlescolar
+User: admince
+Password: Admince_2103

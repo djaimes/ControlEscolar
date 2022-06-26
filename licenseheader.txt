@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}UNIVERSIDAD AUTONOMA DE CAMPECHE
+${licensePrefix}PROGRAMACION DE APLICACIONES WEB
+${licensePrefix}2020
+<#if licenseLast??>
+${licenseLast}
+</#if>
